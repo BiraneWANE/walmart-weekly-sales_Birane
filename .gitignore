@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnements
+.env
+.venv/
+venv/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives et exports
+*.zip
+*.rar
+*.7z
+*.html
+
+# Fichiers de cours et brouillons
+Cours du projet.zip
+course/
+*premium*
+*jury*
+*oral*
+Guide_V2_ameliorations_et_oral.md
+
+# Données temporaires
+*.log
